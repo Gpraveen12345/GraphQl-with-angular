@@ -1,0 +1,11 @@
+.product{
+    display: flex;
+    width: 50vw;
+    float: left;
+}
+
+.product-create{
+    display: flex;
+    width: 50vw;
+    float: right;
+}
